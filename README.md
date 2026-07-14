@@ -22,6 +22,7 @@ I stay hands-on across architecture, backend and product engineering, data pipel
 
 Most of my production work lives in private repositories. Public projects and case studies are intentionally sanitized: no employer code, customer data, production credentials, proprietary schemas, or real provider configuration.
 
+- [Payment Orchestration Lab](https://github.com/sevakode/payment-orchestration-lab) — a tested TypeScript reference for deterministic routing, idempotency, provider fallback, state transitions, and at-least-once outbox delivery.
 - [Gostex API documentation](https://github.com/gost-fintech/docs-api/commits?author=sevakode) — API documentation, TypeScript, MDX, and developer experience.
 - [Gostex product delivery](https://github.com/gostex-io/meet-up/commits?author=sevakode) — hands-on product, UX, localization, and deployment work.
 - [Dead Route](https://github.com/sevakode/dead-route-web) — a browser-playable Godot/WebAssembly game prototype.

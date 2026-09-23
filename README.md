@@ -14,7 +14,6 @@ I build reliable software products and technical platforms, working hands-on fro
 ## Public projects
 
 - [Payment Orchestration Lab](https://github.com/sevakode/payment-orchestration-lab) — an independent, fully synthetic TypeScript reference project.
-- [Dead Route](https://github.com/sevakode/dead-route-web) — a browser-playable Godot/WebAssembly prototype.
 
 Production work remains private. Public repositories contain only independent examples, synthetic data, and intentionally non-production configuration.
 
